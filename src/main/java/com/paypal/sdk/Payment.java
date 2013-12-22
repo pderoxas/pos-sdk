@@ -4,6 +4,7 @@ import java.util.UUID;
 
 /**
  * Created by pderoxas on 12/22/13.
+ * Adding a comment
  */
 public class Payment {
     private UUID id;
