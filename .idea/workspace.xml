@@ -106,7 +106,7 @@
       <file leaf-file-name="application.properties" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="16" selection-start="69" selection-end="69" vertical-scroll-proportion="0.07692308" vertical-offset="0" max-vertical-offset="585">
+            <state line="4" column="16" selection-start="86" selection-end="86" vertical-scroll-proportion="0.102564104" vertical-offset="0" max-vertical-offset="585">
               <folding />
             </state>
           </provider>
@@ -540,7 +540,11 @@
       <created>1387732760752</created>
       <updated>1387732760752</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding property">
+      <created>1387744874494</created>
+      <updated>1387744874494</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -591,7 +595,8 @@
     <MESSAGE value="Changed version to 1.0&#10;" />
     <MESSAGE value="Added another property&#10;" />
     <MESSAGE value="Added property&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added property&#10;" />
+    <MESSAGE value="Adding property" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding property" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -640,7 +645,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="69" selection-end="69" vertical-scroll-proportion="0.07692308" vertical-offset="0" max-vertical-offset="585">
+        <state line="4" column="16" selection-start="86" selection-end="86" vertical-scroll-proportion="0.102564104" vertical-offset="0" max-vertical-offset="585">
           <folding />
         </state>
       </provider>
